@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1d3e5ccb-823f-4ccb-a4e8-e31d47ba3bb3}">
+		<property name="assetPath">
+			<value>Games, Video, Retro, 8 Bit, Jump 04 SND15259.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.34908333333333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f340d0fd-5549-4739-88a5-facb95cd620c}</destination>
+		</relationship>
+	</object>
+</objects>

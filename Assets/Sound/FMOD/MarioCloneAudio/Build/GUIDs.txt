@@ -1,0 +1,10 @@
+{6ebd769d-40fd-41a1-8c0e-db4a77b1b19b} bank:/Master
+{f6a05649-3186-0de3-0a47-51b48642b703} bank:/Master.strings
+{311ec053-63c8-457d-ac07-dce36a7978b5} bus:/
+{bcc9d4b6-da45-4b62-9c25-6b1cd67b86d0} bus:/Reverb
+{794a7d94-a744-4abe-b245-d51a9e00e739} event:/Hit
+{bd171738-b4e1-478b-9de5-3f76ec6f9e73} event:/HitBlock
+{5f4108d3-eb6f-4f41-80c0-ddb4f4b9dfd6} event:/HitBlockEmpty
+{613c9de9-677a-4404-b759-08d8d0024a38} event:/Jump
+{f11151d3-38aa-4e03-b0d3-93a463610f59} event:/PowerUp
+{d54baa64-b3c4-471f-9650-e52ae3e8b9ab} parameter:/Size

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{bc5e8285-cd17-4554-961a-93e80ed292a3}">
+		<property name="assetPath">
+			<value>Wood, Impact, Light Kock, Hollow SND30374.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.039364583333333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f340d0fd-5549-4739-88a5-facb95cd620c}</destination>
+		</relationship>
+	</object>
+</objects>

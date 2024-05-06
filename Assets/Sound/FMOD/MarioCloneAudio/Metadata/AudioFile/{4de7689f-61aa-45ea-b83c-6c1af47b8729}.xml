@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4de7689f-61aa-45ea-b83c-6c1af47b8729}">
+		<property name="assetPath">
+			<value>Musical, Song &amp; Phrase, Retro 8 Bit Melody SND58365.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3039166666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f340d0fd-5549-4739-88a5-facb95cd620c}</destination>
+		</relationship>
+	</object>
+</objects>

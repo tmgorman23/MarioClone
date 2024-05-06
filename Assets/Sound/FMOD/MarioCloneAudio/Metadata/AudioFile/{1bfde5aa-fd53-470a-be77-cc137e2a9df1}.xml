@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1bfde5aa-fd53-470a-be77-cc137e2a9df1}">
+		<property name="assetPath">
+			<value>Games, Video, Retro Arcade Game, Incorrect, Error Tone SND29691.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.13441666666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f340d0fd-5549-4739-88a5-facb95cd620c}</destination>
+		</relationship>
+	</object>
+</objects>
